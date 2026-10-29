@@ -39,5 +39,4 @@ A website containing the biography of the Chief Minister of Karnataka is develop
 
 ## Result
 Git branching and Pull Request operations were performed successfully. The merge conflict was identified and resolved manually, and the final changes were merged into the main branch.
-## Result
-Git branching and Pull Request operations were performed successfully. The merge conflict was identified and resolved manually, and the final changes were merged into the main branch.
+
